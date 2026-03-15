@@ -1,14 +1,23 @@
-# SIMU – AI Code Generator
+# SIMU GPT – AI Code Generator
 
-SIMU is an AI chatbot that generates programming code using the Gemini API.
+SIMU GPT is an AI-powered coding assistant that generates programming code based on user input.
 
-Technologies Used
-• Python
-• Google Colab
-• Gradio
-• Gemini API
+## Technologies Used
+- Python
+- Google Colab
+- Gemini API
+- Gradio
 
-Features
-• Generates code
-• Explains code
-• Simple chatbot interface
+## Features
+- Generates programming code
+- Provides short explanation
+- Simple chatbot interface
+
+## How it Works
+User Input → Gradio Interface → Python Backend → Gemini Model → Code Output
+
+## Project File
+Simu_gpt.ipynb
+
+## Author
+Sourav Mitharwal
